@@ -53,7 +53,7 @@ python --version
 ### 1. Clonar o descargar el proyecto
 
 ```bash
-git clone git clone https://github.com/etorresr4/pruebaingenieroautomatizacion.git
+git clone https://github.com/etorresr4/pruebaingenieroautomatizacion.git
 cd sistema-proveedores
 ```
 
